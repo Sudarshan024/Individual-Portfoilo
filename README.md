@@ -19,4 +19,5 @@ Contains **ArcGIS Toolbox** which showcases
 ### Final Reflection 
 Contains **Reflection Document** on the whole project 
   - BCC
-  - Reflection on each learning goal 
+  - Reflection on each learning goal
+Data Access to our project raw data through link below : https://wageningenur4.sharepoint.com/:f:/r/sites/course239381/Gedeelde%20documenten/Group%204/Data?csf=1&web=1&e=s6zTE2
