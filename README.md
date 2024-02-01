@@ -17,4 +17,6 @@ Contains **ArcGIS Toolbox** which showcases
   - Implementation Steps
   - Results
 ### Final Reflection 
-Contains **Reflection Document** on the whole project
+Contains **Reflection Document** on the whole project 
+  - BCC
+  - Reflection on each learning goal 
